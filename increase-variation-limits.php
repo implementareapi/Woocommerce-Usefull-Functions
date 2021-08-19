@@ -1,0 +1,1 @@
+define( 'WC_MAX_LINKED_VARIATIONS', 300 );
